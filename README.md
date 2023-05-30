@@ -1,2 +1,2 @@
 # sipren-app
-Sistem Presensi Siswa (Sipren) made by kotlin and firebase.
+Sistem Presensi Siswa (Sipren) built using kotlin and firebase.
